@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Cohen
-- 🌱 I’m currently a second year software engineering student
+- 🌱 I’m currently a third year software engineering student
 - 📫 Email amitcohen2301@gmail.com
 
 <!---
