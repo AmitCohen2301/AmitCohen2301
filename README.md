@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amit Cohen
-- 🌱 I’m currently a third year software engineering student
+- 🌱 I’m currently serve as CTO in the IDF.
 - 📫 Email amitcohen2301@gmail.com
 
 <!---
